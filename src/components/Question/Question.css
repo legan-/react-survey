@@ -1,0 +1,29 @@
+.question-container {
+  border-bottom: 1px solid #DDD;
+  padding: 10px 16px;
+  user-select: none;
+}
+
+.question-container:last-child {
+  border-bottom: none;
+}
+
+.question-container.warning {
+  background-color: #fff4f5;
+  border-color: #f5c6cb;
+}
+
+.question-container .question-text {
+  cursor: default;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 6px;
+}
+
+.question-container .question-text.correct {
+  color: #28a745;
+}
+
+.question-container .question-text.incorrect {
+  color: #dc3545;
+}

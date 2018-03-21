@@ -1,0 +1,18 @@
+.option {
+  padding: 3px 10px;
+}
+
+.option input,
+.option label {
+  cursor: pointer;
+  vertical-align: top;
+}
+
+.option input:disabled,
+.option input:disabled ~ label {
+  cursor: default;
+}
+
+.option label {
+  padding-left: 6px;
+}

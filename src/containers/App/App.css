@@ -1,0 +1,45 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.container .text-center {
+  font-weight: 300;
+  text-align: center;
+}
+
+.container .btn-container {
+  margin: 20px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.container .btn-container button {
+  background-color: #007bff;
+  border: 1px solid transparent;
+  border-color: #007bff;
+  border-radius: .25rem;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: .5px;
+  padding: 8px 14px;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+
+.container .btn-container button:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+  color: #fff;
+}
+
+.container .message {
+  font-weight: 400;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.container .message.warning {
+  color: #dc3545;
+}
