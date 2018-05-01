@@ -1,8 +1,10 @@
+# Survey
+
 ## Description
 
 The app has three lists of questions by default. It randomly chooses one list of questions to show before the page is loaded.
 
-Sometimes it shows message 'Question list can not be loaded'. It's a normal. In this way the app has received an empty json with questions.
+Sometimes it shows message "Question list can not be loaded". It's a normal. In this way the app has received an empty json with questions.
 
 User should answer all given questions to see a result. Otherwise, the app will show a warning message.
 
@@ -11,10 +13,15 @@ After submitting answers the app shows a score and highlights questions with cor
 ### Correct answers
 
 List 1: All first options
-\
 List 2: All third options
-\
 List 3: All second options
+
+### Tech Stack
+
+* ES6
+* npm
+* enzyme
+* Jasmine
 
 ---
 
