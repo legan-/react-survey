@@ -12,9 +12,9 @@ After submitting answers the app shows a score and highlights questions with cor
 
 ### Correct answers
 
-List 1: All first options
-List 2: All third options
-List 3: All second options
+* List 1: All first options
+* List 2: All third options
+* List 3: All second options
 
 ### Tech Stack
 
