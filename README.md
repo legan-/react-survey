@@ -19,6 +19,7 @@ After submitting answers the app shows a score and highlights questions with cor
 ### Tech Stack
 
 * ES6
+* React
 * npm
 * enzyme
 * Jasmine
