@@ -28,7 +28,7 @@ After submitting answers the app shows a score and highlights questions with cor
 
 ## Getting Started
 
-### Installing
+### Installation
 
 To prepare this app for running you have to:
 
